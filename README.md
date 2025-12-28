@@ -101,9 +101,9 @@
 6. Take the quiz you just created
 7. Check results and XP earned
 
-Group members:
-1.John Kate Ausente
-2.Clark Bernard Espiña
-3.Arianne Prajes
-4.Gabriele Daniel Tiu
-5.Vina Mahinay
+##*Group members*
+1. John Kate Ausente
+2. Clark Bernard Espiña
+3. Arianne Prajes
+4. Gabriele Daniel Tiu
+5. Vina Mahinay
